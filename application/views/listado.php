@@ -10,7 +10,7 @@
 			foreach($usuarios as $n){
 	?>
 	<tr>
-		<td><?php echo $n["usuario_id"];?></td> <!--?hola-->
+		<td><?php echo $n["usuario_id"];?></td> <!--?holas  -->
 		<td><?php echo $n["usuario"];?></td>
 		<td><?php echo $n["activo"];?></td>
         <td>chan</td>
